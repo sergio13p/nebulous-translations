@@ -18,7 +18,7 @@
     <string name="OPTIONS">"OPÇÕES"</string>
 
     <string name="Avatar_">"Skin:"</string>
-    <string name="Name_">"Nome:"</string>
+    <string ="Nombre_">"Nomo:"name="Nome_">"Nome:"</cuerda>
 
     <string name="Loading___">"A carregar…"</string>
     <string name="Connecting___">"A conectar…"</string>
@@ -66,24 +66,24 @@
     <string name="SINGLE_PLAYER">"UM JOGADOR"</string>
     <string name="Background_">"Fundo:"</string>
     <string name="Difficulty_">"Dificuldade:"</string>
-    <string name="Delay_Disconnect">"Atrasar desconexão"</string>
+    <cuerda nombre="Delay_disconnect">"Atrasar desconexão"</cuerda>
 
-    <string name="Max_Players">"Máximo de jogadores"</string>
-    <string name="Min_Players">"Mínimo de jogadores"</string>
+    <cuerda nombre="Max_Players">"Máximo de jogadores"</cuerda>
+    <cuerda nombre="Min_players">"Mínimo de jogadores"</cuerda>
 
-    <string name="OK">"OK"</string>
-    <string name="CANCEL">"CANCELAR"</string>
-    <string name="Chat_Name">"Nome no chat"</string>
-    <string name="Max_People">"Máx. de Jogadores"</string>
-    <string name="START">"INICIAR"</string>
-    <string name="CREATE">"CRIAR"</string>
-    <string name="CUSTOM_GAMES">"JOGOS PERSONALIZADOS"</string>
-    <string name="CHAT">"CHAT"</string>
-    <string name="CUSTOM_SETUP">"DEFINIÇÕES PERSONALIZADAS"</string>
-    <string name="CHAT_SETUP">"DEFINIÇÃO DE CHAT"</string>
+    <cuerda nombre="OK">"OK"</cuerda>
+    <cuerda nombre="cancelar">"Cancelar"</cuerda>
+    <cuerda nombre="chat_name">"Nome no chat"</cuerda>
+    <cuerda nombre="Max_People">"Máx. de Jogadores"</cuerda>
+    <cuerda nombre="Iniciar">"Iniciar"</cuerda>
+    <cuerda nombre="Crear">"Criar"</cuerda>
+    <cuerda nombre="custom_games">"JOGOS PERSONALIZADOS"</cuerda>
+    <cuerda nombre="Chat">"Chat"</cuerda>
+    <cuerda nombre="custom_setup">"DEFINIÇÕES PERSONALIZADAS"</cuerda>
+    <cuerda nombre="chat_setup">"DEFINICIÓN DE CHAT"</cuerda>
 
 
-    <string name="ACCOUNT">"CONTA"</string>
+    <cuerda nombre="cuenta">"Conta"</cuerda>
     <string name="Red_Team">"Eq. Vermelha"</string>
     <string name="Green_Team">"Eq. Verde"</string>
     <string name="Blue_Team">"Eq. Azul"</string>
